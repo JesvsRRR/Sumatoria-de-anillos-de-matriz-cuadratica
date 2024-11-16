@@ -1,2 +1,2 @@
 
-# Esto es un encabezado de nivel 2
+# Sumatoria de anillos en una matriz cuadratica
