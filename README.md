@@ -2,7 +2,7 @@
 # Sumatoria de anillos en una matriz cuadratica
 
 ## Formulación del problema:
-<img src="IMAGENProblema.jpg" alt="Imagen del problema" width="100" />
+<img src="IMAGENProblema.jpg" alt="Imagen del problema" width="200" />
 
 
 
