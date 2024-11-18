@@ -7,4 +7,6 @@
   <img src="IMAGENProblema.jpg" alt="Imagen del problema" width="700" />
 </div>
 
+## Metodología:
 
+### Diseño del algoritmo:
