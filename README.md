@@ -10,3 +10,7 @@
 ## Metodología:
 
 ### Diseño del algoritmo:
+
+### Implementación del algoritmo:
+
+### Análisis del algoritmo:
