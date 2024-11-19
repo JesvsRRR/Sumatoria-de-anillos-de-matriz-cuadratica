@@ -14,7 +14,10 @@ Acordé a los criterios del problema se debe generar una matriz cuadrática de t
 
 También los parámetros del problema exigen que cada elemento de la matriz contenga un número del 0 al 100 aplicado por aleatoriedad.
 
-Con la matriz inicializa,el usuario debe ingresar el n° de anillo que desea su sumatoria, la sumatoria funciona si lo ingresado está dentro de la cantidad de anillos (dim/2 [redondeado]) en la matriz.
+Con la matriz inicializada,el usuario debe ingresar el n° de anillo que desea su sumatoria, la sumatoria funcionara siempre que lo ingresado este dentro de la cantidad de anillos (dim/2 [redondeado]) en la matriz. 
+
+
+
 
 <div style="text-align: center;">
   <img src="Diagrama.jpg" alt="Imagen del diagrama" width="700" />
