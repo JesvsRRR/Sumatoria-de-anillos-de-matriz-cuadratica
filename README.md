@@ -11,6 +11,11 @@
 
 ### Diseño del algoritmo:
 
+<div style="text-align: center;">
+  <img src="Diagrama.jpg" alt="Imagen del diagrama" width="700" />
+</div>
+
+
 ### Implementación del algoritmo:
 
 ### Análisis del algoritmo:
