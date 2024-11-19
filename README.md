@@ -1,4 +1,3 @@
-
 # Sumatoria de anillos en una matriz cuadratica
 
 ## Formulación del problema:
@@ -15,7 +14,7 @@ Acordé a los criterios del problema se debe generar una matriz cuadrática de t
 
 También los parámetros del problema exigen que cada elemento de la matriz contenga un número del 0 al 100 aplicado por aleatoriedad.
 
-
+Con la matriz inicializa,el usuario debe ingresar el n° de anillo que desea su sumatoria dentro del rango de la matriz (n° de anillos = dim/2 [redondeado])
 
 <div style="text-align: center;">
   <img src="Diagrama.jpg" alt="Imagen del diagrama" width="700" />
