@@ -22,7 +22,7 @@ También los parámetros del problema exigen que cada elemento de la matriz cont
 
 Con la matriz inicializada,el usuario debe ingresar el n° de anillo que desea su sumatoria, la sumatoria funcionara siempre que lo ingresado este dentro de la cantidad de anillos (dim/2 [redondeado]) en la matriz. 
 
-Teniendo los valores de la "dimensión" y el "n° del anillo", es posible calcular los límites inferior y superior del anillo, es decir, determinar su ubicación en coordenadas para realizar su recorrido dentro de la misma, así mismo la sumatoria.
+Teniendo los valores de la "dimensión" y el "n° del anillo", es posible calcular los límites superior ("n° del anillo" - 1) e inferior (dim - "n° del anillo") del anillo, es decir, determinar su ubicación en coordenadas para realizar su recorrido dentro de la misma, así mismo la sumatoria.
 
 
 
