@@ -35,3 +35,26 @@ Teniendo los valores de la "dimensión" y el "n° del anillo", es posible calcul
 ### Implementación del algoritmo:
 
 ### Análisis del algoritmo:
+
+Analicemos la complejidad de cada método:
+
+1. **Método `RellenarRandom`**:
+   - Utiliza dos bucles anidados para recorrer la matriz completa
+   - Ambos bucles iteran sobre la dimensión de la matriz
+   - Complejidad temporal: O(n²), donde n es la dimensión de la matriz
+   - Complejidad espacial: O(n²) para almacenar la matriz
+
+2. **Método `SumatoriaAnillos`**:
+   - Contiene dos bucles anidados 
+     - El primer bucle itera desde el inicio hasta el final del anillo
+     - El segundo bucle interno recorre los elementos de las filas primera y última
+   - En el peor caso, también tiene una complejidad de O(n²)
+
+3. **Método `main`**:
+   - Llama a `RellenarRandom` que tiene O(n²)
+   - Llama a `SumatoriaAnillos` que también tiene O(n²)
+   - Complejidad total: O(n²)
+
+**Complejidad global del algoritmo**:
+- Temporal: O(n²)
+- Espacial: O(n²)
