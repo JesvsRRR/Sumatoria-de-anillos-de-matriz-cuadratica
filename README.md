@@ -65,16 +65,16 @@ Analicemos la complejidad de cada método:
 
    - Mejor caso: O(n)
 
-   Ocurriría cuando el anillo solicitado es el más externo o el más interno
-   Menos iteraciones internas
-   Menos elementos a sumar
+     Ocurriría cuando el anillo solicitado es el más externo o el más interno
+     Menos iteraciones internas
+     Menos elementos a sumar
 
 
    - Peor caso: O(n²)
 
-   Cuando se solicita un anillo que requiere recorrer gran parte de la matriz
-   Máximo número de iteraciones
-   Suma de más elementos
+     Cuando se solicita un anillo que requiere recorrer gran parte de la matriz
+     Máximo número de iteraciones
+     Suma de más elementos
 
 3. **Método `main`**:
    - Llama a `RellenarRandom` que tiene O(n²)
