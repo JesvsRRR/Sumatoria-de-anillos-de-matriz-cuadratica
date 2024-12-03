@@ -51,7 +51,7 @@ Analicemos la complejidad de cada método:
      Tiempo de ejecución constante para cada iteración
 
 
-     - Peor caso: O(n²)
+   - Peor caso: O(n²)
 
      Igual que el mejor caso
      No hay variación significativa en el rendimiento
