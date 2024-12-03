@@ -44,11 +44,37 @@ Analicemos la complejidad de cada método:
    - Complejidad temporal: O(n²), donde n es la dimensión de la matriz
    - Complejidad espacial: O(n²) para almacenar la matriz
 
+- Mejor caso: O(n²)
+
+Siempre recorre toda la matriz
+Independientemente del tamaño, genera números aleatorios en cada posición
+Tiempo de ejecución constante para cada iteración
+
+
+- Peor caso: O(n²)
+
+Igual que el mejor caso
+No hay variación significativa en el rendimiento
+Siempre se recorren todas las posiciones de la matriz
+
 2. **Método `SumatoriaAnillos`**:
    - Contiene dos bucles anidados 
    - El primer bucle itera desde el inicio hasta el final del anillo
    - El segundo bucle interno recorre los elementos de las filas primera y última
    - En el peor caso, también tiene una complejidad de O(n²)
+
+- Mejor caso: O(n)
+
+Ocurriría cuando el anillo solicitado es el más externo o el más interno
+Menos iteraciones internas
+Menos elementos a sumar
+
+
+- Peor caso: O(n²)
+
+Cuando se solicita un anillo que requiere recorrer gran parte de la matriz
+Máximo número de iteraciones
+Suma de más elementos
 
 3. **Método `main`**:
    - Llama a `RellenarRandom` que tiene O(n²)
