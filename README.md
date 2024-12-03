@@ -56,5 +56,5 @@ Analicemos la complejidad de cada método:
    - Complejidad total: O(n²)
 
 **Complejidad global del algoritmo**:
-- Temporal: O(n²)
-- Espacial: O(n²)
+   - Temporal: O(n²) 
+   - Espacial: O(n²)
