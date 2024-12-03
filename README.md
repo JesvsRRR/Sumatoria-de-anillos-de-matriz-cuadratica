@@ -46,8 +46,8 @@ Analicemos la complejidad de cada método:
 
 2. **Método `SumatoriaAnillos`**:
    - Contiene dos bucles anidados 
-     - El primer bucle itera desde el inicio hasta el final del anillo
-     - El segundo bucle interno recorre los elementos de las filas primera y última
+   - El primer bucle itera desde el inicio hasta el final del anillo
+   - El segundo bucle interno recorre los elementos de las filas primera y última
    - En el peor caso, también tiene una complejidad de O(n²)
 
 3. **Método `main`**:
